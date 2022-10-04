@@ -13,4 +13,4 @@ the As.
 What are the divisor and
 quotient?
 
-![A representation of Feynman's long division problem](puzzle_image.png)
+![A representation of Feynman's long division problem](puzzle.png)
